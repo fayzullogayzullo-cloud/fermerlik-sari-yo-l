@@ -239,7 +239,6 @@
         <div id="video-list" class="video-list" aria-live="polite"></div>
       </section>
 
-      <footer class="site-footer" id="siteFooter">Bekjonni tog'alari uchun taxlagan sayti</footer>
     </main>
   </div>
 
